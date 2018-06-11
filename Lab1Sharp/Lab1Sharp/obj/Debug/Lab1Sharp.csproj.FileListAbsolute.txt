@@ -1,0 +1,7 @@
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\bin\Debug\Lab1Sharp.exe.config
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\bin\Debug\Lab1Sharp.exe
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\bin\Debug\Lab1Sharp.pdb
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\obj\Debug\Lab1Sharp.csprojAssemblyReference.cache
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\obj\Debug\Lab1Sharp.csproj.CoreCompileInputs.cache
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\obj\Debug\Lab1Sharp.exe
+d:\DATA\Documents\Visual Studio 2017\Projects\Lab1Sharp\Lab1Sharp\obj\Debug\Lab1Sharp.pdb
